@@ -1,0 +1,22 @@
+{
+  "name": "eslint-demo",
+  "version": "1.0.0",
+  "description": "A simple demo of custom rules in ESLint",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xjamundx/eslint-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xjamundx/eslint-demo/issues"
+  },
+  "homepage": "https://github.com/xjamundx/eslint-demo",
+  "dependencies": {
+    "eslint": "^0.12.0"
+  }
+}
