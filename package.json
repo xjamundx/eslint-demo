@@ -4,7 +4,7 @@
   "description": "A simple demo of custom rules in ESLint",
   "main": "index.js",
   "scripts": {
-    "test": "eslint test/*.js"
+    "test": "eslint --rulesdir rules/ test/*.js"
   },
   "repository": {
     "type": "git",

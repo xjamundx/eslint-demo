@@ -1,5 +1,8 @@
 {
-	env: {
-		node: true
-	}
+	"env": {
+		"node": true
+	},
+    "rules": {
+      "throw-errors": 2
+    }
 }
